@@ -8,7 +8,4 @@ NOTE: Make sure the Python Turtle window is in full-screen mode, so you can see 
       window size, so you can see everything that the Python Turtle is drawing. Also, make sure you listen to the input instructions precisely! Otherwise, a while loop
       will run endlessly prompting the same thing over and over until you listen to the instructions in the console.
       
-- If you find that running the code in a different IDE from Replit is too tedious of a process, then you can access the code by finding the "Hangman Game w/ Python Turtle"
-project on my Replit account @HuzayfahAwan (I have the "H" with the crown as my profile picture). 
-
 Have fun!
