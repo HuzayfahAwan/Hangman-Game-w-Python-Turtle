@@ -10,4 +10,4 @@ NOTE: Make sure the Python Turtle window is in full-screen mode, so you can see 
       
 Have fun!
 
-Link to my Repl: https://replit.com/@HuzayfahAwan/Hangman-with-Python-Turtle
+Repl Link: https://replit.com/@HuzayfahAwan/Hangman-with-Python-Turtle
